@@ -1,6 +1,11 @@
-# animepedia
+# AnimePedia
 
-A new Flutter project.
+An interactive Encyclopaedia for Anime lovers.
+
+(REFRESH THE PAGE IF BELOW WORKING DEMO NOT VISIBLE)
+
+![Working Demo](GIF-200525_005922.gif)
+
 
 ## Getting Started
 
